@@ -100,4 +100,4 @@ This tool is intended only for educational, research, and authorized security te
 🧑‍💻 Author
 Varun
 Ethical Hacker & Cybersecurity Researcher
-LinkedIn - www.linkedin.com/in/cyber-muntashir
+LinkedIn - www.linkedin.com/in/mr-pentest
